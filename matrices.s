@@ -312,8 +312,12 @@ Parrafito:
 
 
 									la $a0,salto_de_linea
-									li $v0,4
-									syscall 
+							greggffdsç4
+							a
+							ssf
+							saf
+							sadfsdft
+							ew		syscall 
 
 
 											addi $s0,$s0,4   # 0($S0) + 4
